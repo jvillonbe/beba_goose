@@ -8,10 +8,10 @@
    sudo mininet/util/install.sh -n
    ```
 2. Install beba-goose switch
-  ```
-  cd ofsoftswitch13_goose/
-  ./boot.sh
-  ./configure
-  make
-  make install
-  ```
+   ```
+   cd ofsoftswitch13_goose/
+   ./boot.sh
+   ./configure
+   make
+   make install
+   ```
