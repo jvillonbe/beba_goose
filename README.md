@@ -15,3 +15,8 @@
    make
    make install
    ```
+3. Install beba-goose controller
+   ```
+   cd ryu_goose/
+   sudo python setup.py install
+   ```
