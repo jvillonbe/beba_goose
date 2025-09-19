@@ -5,4 +5,5 @@
    cd mininet
    sudo git tag
    sudo git checkout -b mininet-2.2.1 2.2.1
+   sudo mininet/util/install.sh -n
    ```
