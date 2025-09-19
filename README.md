@@ -7,7 +7,6 @@
    sudo git checkout -b mininet-2.2.1 2.2.1
    sudo mininet/util/install.sh -n
    ```
-
 2.Install beba-goose switch
   ```
   cd ofsoftswitch13_goose/
